@@ -4,5 +4,5 @@ namespace Lubed\Supports;
 
 interface Kernel
 {
-    public function run();
+    public function boot();
 }
