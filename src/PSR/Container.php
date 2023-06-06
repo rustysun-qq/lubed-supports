@@ -1,5 +1,5 @@
 <?php
-namespace Lubed\Supports;
+namespace Lubed\Supports\PSR;
 
 interface Container
 {
