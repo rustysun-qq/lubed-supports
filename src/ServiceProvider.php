@@ -1,8 +1,8 @@
 <?php
 namespace Lubed\Supports;
 
-use Lubed\Supports\PSR\Container;
+use Lubed\Supports\PSR\ContainerInterface as PSRContainer;
 
 interface ServiceProvider {
-    public function register(Container $container);
+    public function register(PSRContainer $container);
 }
