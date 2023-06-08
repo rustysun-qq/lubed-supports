@@ -1,6 +1,6 @@
 <?php
 
-namespace Lubed\Supports\Psr\HttpMessage;
+namespace Lubed\Supports\PSR\HttpMessage;
 
 /**
  * HTTP messages consist of requests from a client to a server and responses

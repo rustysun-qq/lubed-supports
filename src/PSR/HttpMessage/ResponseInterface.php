@@ -1,6 +1,6 @@
 <?php
 
-namespace Lubed\Supports\Psr\HttpMessage;
+namespace Lubed\Supports\PSR\HttpMessage;
 
 /**
  * Representation of an outgoing, server-side response.

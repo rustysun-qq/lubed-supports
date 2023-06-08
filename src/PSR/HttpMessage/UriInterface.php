@@ -1,5 +1,5 @@
 <?php
-namespace Lubed\Supports\Psr\HttpMessage;
+namespace Lubed\Supports\PSR\HttpMessage;
 
 /**
  * Value object representing a URI.

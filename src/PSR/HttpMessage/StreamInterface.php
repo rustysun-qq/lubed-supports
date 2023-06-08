@@ -1,6 +1,6 @@
 <?php
 
-namespace Lubed\Supports\Psr\HttpMessage;
+namespace Lubed\Supports\PSR\HttpMessage;
 
 /**
  * Describes a data stream.
