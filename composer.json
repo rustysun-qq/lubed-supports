@@ -2,21 +2,12 @@
     "name":"lubed/supports",
     "type": "project",
     "license": "proprietary",
-    "minimum-stability": "dev",
+    "version": "0.2",
     "prefer-stable": true,
     "require": {
         "php": ">=8.0"
     },
     "require-dev": {
-    },
-    "config": {
-        "allow-plugins": {},
-        "optimize-autoloader": true,
-        "preferred-install": {
-            "*": "dist"
-        },
-        "sort-packages": true,
-        "bin-dir": "bin"
     },
     "autoload": {
         "psr-4": {
